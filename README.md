@@ -39,9 +39,22 @@ This analysis leads the following conclusions for entering the movie market:
 * **In addition, make horror movies.**  Horror movies require relatively low budgets and generate a very high return on investment both domestically and worldwide. 
 * **Keep the budget at 200 million or below.** Budgets higher than 200 million carried greater risk. 
 
-## Next Stops
+## Next Steps
 
 Further analyses could yield even greater insights into profitable movie choices. 
 * Further analysis of public perception in terms of favorite movies.   
 * Analysis of streaming services.  Especially in terms of today's market and COVID, research should be done regarding releasing movies to streaming services instead of or in addition to box offices.  
 * Analysis of awards and whether awards correlate with profits. 
+
+## For More Information
+
+Please review my full analysis in my [Jupyter Notebook](movie-analysis.ipynb) or my [presentation](Movie-Analysis-Presentation.pdf).
+
+## Repository Structure
+- README.md <- The top-level README for reviewers of this project. 
+- movie-analysis.ipynb <- Narrative documentation of analysis in Jupyter Notebook
+- Movie-Analysis-Presentation.pdf <- PDF version of project presentation 
+- data <- Data used for the code
+- Images <- images generated from the code 
+
+
